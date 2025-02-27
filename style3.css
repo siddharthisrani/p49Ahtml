@@ -1,0 +1,21 @@
+
+
+#con{
+    height: 200px;
+   background-color: aquamarine;   
+    color: green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 10%;
+
+}
+
+.head2{
+    font-style: italic;
+}
+
+.list{
+    display: flex;
+    gap: 10%;
+}
